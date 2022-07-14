@@ -2,3 +2,6 @@ content:
 - Function annotations
 - How to read a traceback
 - Reading files
+- Inheritance in Python
+- Method overriding
+- User-defined exceptions
